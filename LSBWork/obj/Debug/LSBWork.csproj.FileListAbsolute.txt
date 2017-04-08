@@ -1,0 +1,6 @@
+D:\Book IS\LSBWork\LSBWork\bin\Debug\LSBWork.exe.config
+D:\Book IS\LSBWork\LSBWork\bin\Debug\LSBWork.exe
+D:\Book IS\LSBWork\LSBWork\bin\Debug\LSBWork.pdb
+D:\Book IS\LSBWork\LSBWork\obj\Debug\LSBWork.csprojResolveAssemblyReference.cache
+D:\Book IS\LSBWork\LSBWork\obj\Debug\LSBWork.exe
+D:\Book IS\LSBWork\LSBWork\obj\Debug\LSBWork.pdb
